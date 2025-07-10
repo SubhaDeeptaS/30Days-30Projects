@@ -15,25 +15,3 @@ This project builds a modern end-to-end data pipeline for an e-commerce business
 Build a scalable analytics pipeline that ingests raw CSV files from an e-commerce domain, processes them in Snowflake, and produces reporting-ready tables consumed in Power BI.
 
 ---
-
-## Pipeline Architecture
-
-      [CSV Files]
-          ↓
-   ┌──────────────┐
-   │    AWS S3    │   ← Raw zone
-   └──────────────┘
-          ↓
-     [Snowpipe]
-          ↓
-   ┌──────────────┐
-   │  Snowflake   │
-   └──────────────┘
-     ↓     ↓     ↓
-  [Raw] [Staging] [Marts]
-           ↓
-   ┌──────────────┐
-   │  DBT Models  │
-   └──────────────┘
-           ↓
-  [Power BI Reports]
