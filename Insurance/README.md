@@ -57,6 +57,12 @@ This project implements an **end-to-end data pipeline** using AWS S3, SQS, Snowp
   - Claims and payments over time
   - Customer demographics and policy types
 
+
+
+### 7. Python Framework to transform data and Load to the estination
+
+- Alternatively, built a Python script to fetch the mart data from Snowflake, convert to CSV and then upload to S3 bucket.
+
 ---
 
 ## 📌 Future Improvements
