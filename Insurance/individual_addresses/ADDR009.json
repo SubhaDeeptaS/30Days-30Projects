@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR009",
+    "street": "852 Aspen Ct",
+    "city": "Lakewood",
+    "state": "CO",
+    "zip_code": "80226",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

@@ -1,0 +1,13 @@
+{
+  "CustomerData": {
+    "customer_id": "CUST017",
+    "first_name": "George",
+    "last_name": "Clark",
+    "date_of_birth": "1973-04-25",
+    "gender": "Male",
+    "phone": "+15005550017",
+    "email": "george.clark@example.com",
+    "address_id": "ADDR017"
+  },
+  "Event": "Customer"
+}

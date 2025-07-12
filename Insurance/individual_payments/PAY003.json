@@ -1,0 +1,11 @@
+{
+  "PaymentData": {
+    "payment_id": "PAY003",
+    "policy_id": "POL003",
+    "payment_date": "2022-03-10",
+    "payment_amount": 600.0,
+    "payment_method": "Credit Card",
+    "payment_status": "Failed"
+  },
+  "Event": "Payment"
+}

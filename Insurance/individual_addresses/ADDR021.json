@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR021",
+    "street": "369 Chestnut Ct",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip_code": "21201",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

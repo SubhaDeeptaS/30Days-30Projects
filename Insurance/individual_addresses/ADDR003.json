@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR003",
+    "street": "789 Pine Rd",
+    "city": "Laketown",
+    "state": "CA",
+    "zip_code": "90210",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

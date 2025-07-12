@@ -1,0 +1,58 @@
+version: 2
+
+models:
+  - name: policy_data
+    description: Fact table containing policy data.
+    columns:
+      - name: policy_id
+        tests:
+          - not_null
+          - unique
+      - name: customer_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('customer_data')
+              field: customer_id
+      - name: policy_type
+      - name: start_date
+      - name: end_date
+      - name: premium_amount
+      - name: coverage_amount
+      - name: status
+
+  - name: payment_data
+    description: Fact table containing policy payment data.
+    columns:
+      - name: payment_id
+        tests:
+          - not_null
+          - unique
+      - name: policy_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('policy_data')
+              field: policy_id
+      - name: payment_date
+      - name: payment_amount
+      - name: payment_method
+      - name: payment_status
+
+  - name: claim_data
+    description: Fact table containing claim data against policies.
+    columns:
+      - name: claim_id
+        tests:
+          - not_null
+          - unique
+      - name: policy_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('policy_data')
+              field: policy_id
+      - name: claim_date
+      - name: claim_amount
+      - name: claim_status
+      - name: description

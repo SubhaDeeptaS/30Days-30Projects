@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR011",
+    "street": "369 Chestnut Blvd",
+    "city": "Desert City",
+    "state": "AZ",
+    "zip_code": "85001",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

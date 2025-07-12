@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR017",
+    "street": "159 Sycamore Ave",
+    "city": "Columbus",
+    "state": "OH",
+    "zip_code": "43215",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

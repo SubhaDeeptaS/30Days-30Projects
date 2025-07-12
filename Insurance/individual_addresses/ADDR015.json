@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR015",
+    "street": "654 Magnolia St",
+    "city": "Austin",
+    "state": "TX",
+    "zip_code": "73301",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

@@ -1,0 +1,11 @@
+{
+  "PaymentData": {
+    "payment_id": "PAY005",
+    "policy_id": "POL006",
+    "payment_date": "2020-11-20",
+    "payment_amount": 550.0,
+    "payment_method": "Cheque",
+    "payment_status": "Completed"
+  },
+  "Event": "Payment"
+}

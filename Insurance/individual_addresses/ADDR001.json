@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR001",
+    "street": "123 Elm St",
+    "city": "Springfield",
+    "state": "IL",
+    "zip_code": "62704",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

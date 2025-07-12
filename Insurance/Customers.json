@@ -1,0 +1,302 @@
+[
+  {
+    "customer_id": "CUST001",
+    "first_name": "John",
+    "last_name": "Doe",
+    "date_of_birth": "1980-05-15",
+    "gender": "Male",
+    "phone": "+1234567890",
+    "email": "john.doe@example.com",
+    "address_id": "ADDR001"
+  },
+  {
+    "customer_id": "CUST002",
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "date_of_birth": "1975-08-30",
+    "gender": "Female",
+    "phone": "+0987654321",
+    "email": "jane.smith@example.com",
+    "address_id": "ADDR002"
+  },
+  {
+    "customer_id": "CUST003",
+    "first_name": "Michael",
+    "last_name": "Brown",
+    "date_of_birth": "1990-11-22",
+    "gender": "Male",
+    "phone": "+15005550003",
+    "email": "michael.brown@example.com",
+    "address_id": "ADDR003"
+  },
+  {
+    "customer_id": "CUST004",
+    "first_name": "Emily",
+    "last_name": "Davis",
+    "date_of_birth": "1985-02-14",
+    "gender": "Female",
+    "phone": "+15005550004",
+    "email": "emily.davis@example.com",
+    "address_id": "ADDR004"
+  },
+  {
+    "customer_id": "CUST005",
+    "first_name": "David",
+    "last_name": "Miller",
+    "date_of_birth": "1972-07-04",
+    "gender": "Male",
+    "phone": "+15005550005",
+    "email": "david.miller@example.com",
+    "address_id": "ADDR005"
+  },
+  {
+    "customer_id": "CUST006",
+    "first_name": "Sarah",
+    "last_name": "Wilson",
+    "date_of_birth": "1995-12-01",
+    "gender": "Female",
+    "phone": "+15005550006",
+    "email": "sarah.wilson@example.com",
+    "address_id": "ADDR006"
+  },
+  {
+    "customer_id": "CUST007",
+    "first_name": "Chris",
+    "last_name": "Moore",
+    "date_of_birth": "1983-06-19",
+    "gender": "Male",
+    "phone": "+15005550007",
+    "email": "chris.moore@example.com",
+    "address_id": "ADDR007"
+  },
+  {
+    "customer_id": "CUST008",
+    "first_name": "Laura",
+    "last_name": "Taylor",
+    "date_of_birth": "1978-03-25",
+    "gender": "Female",
+    "phone": "+15005550008",
+    "email": "laura.taylor@example.com",
+    "address_id": "ADDR008"
+  },
+  {
+    "customer_id": "CUST009",
+    "first_name": "Kevin",
+    "last_name": "Anderson",
+    "date_of_birth": "1969-10-31",
+    "gender": "Male",
+    "phone": "+15005550009",
+    "email": "kevin.anderson@example.com",
+    "address_id": "ADDR009"
+  },
+  {
+    "customer_id": "CUST010",
+    "first_name": "Jessica",
+    "last_name": "Thomas",
+    "date_of_birth": "1992-09-13",
+    "gender": "Female",
+    "phone": "+15005550010",
+    "email": "jessica.thomas@example.com",
+    "address_id": "ADDR010"
+  },
+  {
+    "customer_id": "CUST011",
+    "first_name": "Brian",
+    "last_name": "Jackson",
+    "date_of_birth": "1987-11-09",
+    "gender": "Male",
+    "phone": "+15005550011",
+    "email": "brian.jackson@example.com",
+    "address_id": "ADDR011"
+  },
+  {
+    "customer_id": "CUST012",
+    "first_name": "Amy",
+    "last_name": "White",
+    "date_of_birth": "1993-05-23",
+    "gender": "Female",
+    "phone": "+15005550012",
+    "email": "amy.white@example.com",
+    "address_id": "ADDR012"
+  },
+  {
+    "customer_id": "CUST013",
+    "first_name": "Mark",
+    "last_name": "Harris",
+    "date_of_birth": "1979-01-17",
+    "gender": "Male",
+    "phone": "+15005550013",
+    "email": "mark.harris@example.com",
+    "address_id": "ADDR013"
+  },
+  {
+    "customer_id": "CUST014",
+    "first_name": "Nancy",
+    "last_name": "Martin",
+    "date_of_birth": "1988-08-30",
+    "gender": "Female",
+    "phone": "+15005550014",
+    "email": "nancy.martin@example.com",
+    "address_id": "ADDR014"
+  },
+  {
+    "customer_id": "CUST015",
+    "first_name": "Steven",
+    "last_name": "Lee",
+    "date_of_birth": "1991-03-05",
+    "gender": "Male",
+    "phone": "+15005550015",
+    "email": "steven.lee@example.com",
+    "address_id": "ADDR015"
+  },
+  {
+    "customer_id": "CUST016",
+    "first_name": "Olivia",
+    "last_name": "Perez",
+    "date_of_birth": "1996-12-11",
+    "gender": "Female",
+    "phone": "+15005550016",
+    "email": "olivia.perez@example.com",
+    "address_id": "ADDR016"
+  },
+  {
+    "customer_id": "CUST017",
+    "first_name": "George",
+    "last_name": "Clark",
+    "date_of_birth": "1973-04-25",
+    "gender": "Male",
+    "phone": "+15005550017",
+    "email": "george.clark@example.com",
+    "address_id": "ADDR017"
+  },
+  {
+    "customer_id": "CUST018",
+    "first_name": "Megan",
+    "last_name": "Rodriguez",
+    "date_of_birth": "1981-07-30",
+    "gender": "Female",
+    "phone": "+15005550018",
+    "email": "megan.rodriguez@example.com",
+    "address_id": "ADDR018"
+  },
+  {
+    "customer_id": "CUST019",
+    "first_name": "Edward",
+    "last_name": "Lewis",
+    "date_of_birth": "1984-09-15",
+    "gender": "Male",
+    "phone": "+15005550019",
+    "email": "edward.lewis@example.com",
+    "address_id": "ADDR019"
+  },
+  {
+    "customer_id": "CUST020",
+    "first_name": "Sophia",
+    "last_name": "Walker",
+    "date_of_birth": "1997-11-05",
+    "gender": "Female",
+    "phone": "+15005550020",
+    "email": "sophia.walker@example.com",
+    "address_id": "ADDR020"
+  },
+  {
+    "customer_id": "CUST021",
+    "first_name": "Joshua",
+    "last_name": "Hall",
+    "date_of_birth": "1986-10-27",
+    "gender": "Male",
+    "phone": "+15005550021",
+    "email": "joshua.hall@example.com",
+    "address_id": "ADDR021"
+  },
+  {
+    "customer_id": "CUST022",
+    "first_name": "Isabella",
+    "last_name": "Allen",
+    "date_of_birth": "1994-06-17",
+    "gender": "Female",
+    "phone": "+15005550022",
+    "email": "isabella.allen@example.com",
+    "address_id": "ADDR022"
+  },
+  {
+    "customer_id": "CUST023",
+    "first_name": "Daniel",
+    "last_name": "Young",
+    "date_of_birth": "1976-08-29",
+    "gender": "Male",
+    "phone": "+15005550023",
+    "email": "daniel.young@example.com",
+    "address_id": "ADDR023"
+  },
+  {
+    "customer_id": "CUST024",
+    "first_name": "Madison",
+    "last_name": "King",
+    "date_of_birth": "1990-03-12",
+    "gender": "Female",
+    "phone": "+15005550024",
+    "email": "madison.king@example.com",
+    "address_id": "ADDR024"
+  },
+  {
+    "customer_id": "CUST025",
+    "first_name": "Benjamin",
+    "last_name": "Wright",
+    "date_of_birth": "1982-01-09",
+    "gender": "Male",
+    "phone": "+15005550025",
+    "email": "benjamin.wright@example.com",
+    "address_id": "ADDR025"
+  },
+  {
+    "customer_id": "CUST026",
+    "first_name": "Emma",
+    "last_name": "Scott",
+    "date_of_birth": "1989-05-21",
+    "gender": "Female",
+    "phone": "+15005550026",
+    "email": "emma.scott@example.com",
+    "address_id": "ADDR026"
+  },
+  {
+    "customer_id": "CUST027",
+    "first_name": "Matthew",
+    "last_name": "Green",
+    "date_of_birth": "1974-07-18",
+    "gender": "Male",
+    "phone": "+15005550027",
+    "email": "matthew.green@example.com",
+    "address_id": "ADDR027"
+  },
+  {
+    "customer_id": "CUST028",
+    "first_name": "Hannah",
+    "last_name": "Adams",
+    "date_of_birth": "1998-10-07",
+    "gender": "Female",
+    "phone": "+15005550028",
+    "email": "hannah.adams@example.com",
+    "address_id": "ADDR028"
+  },
+  {
+    "customer_id": "CUST029",
+    "first_name": "Joseph",
+    "last_name": "Baker",
+    "date_of_birth": "1981-12-16",
+    "gender": "Male",
+    "phone": "+15005550029",
+    "email": "joseph.baker@example.com",
+    "address_id": "ADDR029"
+  },
+  {
+    "customer_id": "CUST030",
+    "first_name": "Victoria",
+    "last_name": "Nelson",
+    "date_of_birth": "1991-09-02",
+    "gender": "Female",
+    "phone": "+15005550030",
+    "email": "victoria.nelson@example.com",
+    "address_id": "ADDR030"
+  }
+]

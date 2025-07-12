@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR023",
+    "street": "258 Maple Ln",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip_code": "28202",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

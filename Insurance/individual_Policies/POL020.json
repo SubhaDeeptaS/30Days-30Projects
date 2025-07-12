@@ -1,0 +1,13 @@
+{
+  "PolicyData": {
+    "policy_id": "POL020",
+    "customer_id": "CUST019",
+    "policy_type": "Term Life",
+    "start_date": "2020-02-18",
+    "end_date": "2030-02-18",
+    "premium_amount": 560.0,
+    "coverage_amount": 120000.0,
+    "status": "Active"
+  },
+  "Event": "Policy"
+}

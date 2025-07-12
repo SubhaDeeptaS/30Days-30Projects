@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR002",
+    "street": "456 Oak Ave",
+    "city": "Rivertown",
+    "state": "NY",
+    "zip_code": "12121",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

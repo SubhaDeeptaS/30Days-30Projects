@@ -1,0 +1,13 @@
+{
+  "PolicyData": {
+    "policy_id": "POL007",
+    "customer_id": "CUST006",
+    "policy_type": "Universal Life",
+    "start_date": "2019-09-10",
+    "end_date": null,
+    "premium_amount": 820.0,
+    "coverage_amount": 210000.0,
+    "status": "Active"
+  },
+  "Event": "Policy"
+}

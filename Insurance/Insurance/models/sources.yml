@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: raw_tables
+    database: ECOMMERCE
+    schema: RAW
+    tables:
+      - name: customer
+      - name: payment
+      - name: claims
+      - name: address
+      - name: policy

@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR014",
+    "street": "369 Redwood Rd",
+    "city": "Portland",
+    "state": "OR",
+    "zip_code": "97205",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

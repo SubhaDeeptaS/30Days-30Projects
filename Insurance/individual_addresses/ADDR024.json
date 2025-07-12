@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR024",
+    "street": "369 Oak Ave",
+    "city": "Memphis",
+    "state": "TN",
+    "zip_code": "38103",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

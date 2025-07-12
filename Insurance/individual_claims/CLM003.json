@@ -1,0 +1,11 @@
+{
+  "ClaimData": {
+    "claim_id": "CLM003",
+    "policy_id": "POL004",
+    "claim_date": "2023-02-17",
+    "claim_amount": 40000.0,
+    "claim_status": "Pending",
+    "description": "Serious illness claim"
+  },
+  "Event": "Claim"
+}

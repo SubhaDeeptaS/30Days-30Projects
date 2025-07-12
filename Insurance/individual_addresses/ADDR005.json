@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR005",
+    "street": "654 Cedar St",
+    "city": "Fairview",
+    "state": "WA",
+    "zip_code": "98290",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

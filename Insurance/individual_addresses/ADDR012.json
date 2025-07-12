@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR012",
+    "street": "147 Poplar St",
+    "city": "Woodside",
+    "state": "GA",
+    "zip_code": "30301",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

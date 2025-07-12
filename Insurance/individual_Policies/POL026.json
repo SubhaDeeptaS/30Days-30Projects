@@ -1,0 +1,13 @@
+{
+  "PolicyData": {
+    "policy_id": "POL026",
+    "customer_id": "CUST025",
+    "policy_type": "Whole Life",
+    "start_date": "2018-12-20",
+    "end_date": null,
+    "premium_amount": 740.0,
+    "coverage_amount": 145000.0,
+    "status": "Active"
+  },
+  "Event": "Policy"
+}

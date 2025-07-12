@@ -1,0 +1,50 @@
+[
+  {
+    "payment_id": "PAY001",
+    "policy_id": "POL001",
+    "payment_date": "2023-01-01",
+    "payment_amount": 500.00,
+    "payment_method": "Credit Card",
+    "payment_status": "Completed"
+  },
+  {
+    "payment_id": "PAY002",
+    "policy_id": "POL002",
+    "payment_date": "2023-06-15",
+    "payment_amount": 750.00,
+    "payment_method": "Bank Transfer",
+    "payment_status": "Completed"
+  },
+  {
+    "payment_id": "PAY003",
+    "policy_id": "POL003",
+    "payment_date": "2022-03-10",
+    "payment_amount": 600.00,
+    "payment_method": "Credit Card",
+    "payment_status": "Failed"
+  },
+  {
+    "payment_id": "PAY004",
+    "policy_id": "POL004",
+    "payment_date": "2023-05-01",
+    "payment_amount": 800.00,
+    "payment_method": "Credit Card",
+    "payment_status": "Completed"
+  },
+  {
+    "payment_id": "PAY005",
+    "policy_id": "POL006",
+    "payment_date": "2020-11-20",
+    "payment_amount": 550.00,
+    "payment_method": "Cheque",
+    "payment_status": "Completed"
+  },
+  {
+    "payment_id": "PAY006",
+    "policy_id": "POL007",
+    "payment_date": "2023-07-15",
+    "payment_amount": 820.00,
+    "payment_method": "Bank Transfer",
+    "payment_status": "Completed"
+  }
+]

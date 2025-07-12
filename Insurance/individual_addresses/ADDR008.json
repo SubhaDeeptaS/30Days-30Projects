@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR008",
+    "street": "753 Birch Dr",
+    "city": "Seaside",
+    "state": "ME",
+    "zip_code": "04101",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

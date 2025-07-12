@@ -1,0 +1,312 @@
+[
+  {
+    "policy_id": "POL001",
+    "customer_id": "CUST001",
+    "policy_type": "Term Life",
+    "start_date": "2020-01-01",
+    "end_date": "2030-01-01",
+    "premium_amount": 500.00,
+    "coverage_amount": 100000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL002",
+    "customer_id": "CUST001",
+    "policy_type": "Whole Life",
+    "start_date": "2021-06-15",
+    "end_date": null,
+    "premium_amount": 750.00,
+    "coverage_amount": 150000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL003",
+    "customer_id": "CUST002",
+    "policy_type": "Term Life",
+    "start_date": "2019-03-10",
+    "end_date": "2029-03-10",
+    "premium_amount": 600.00,
+    "coverage_amount": 120000.00,
+    "status": "Lapsed"
+  },
+  {
+    "policy_id": "POL004",
+    "customer_id": "CUST003",
+    "policy_type": "Universal Life",
+    "start_date": "2018-07-01",
+    "end_date": null,
+    "premium_amount": 800.00,
+    "coverage_amount": 200000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL005",
+    "customer_id": "CUST004",
+    "policy_type": "Whole Life",
+    "start_date": "2022-03-15",
+    "end_date": null,
+    "premium_amount": 700.00,
+    "coverage_amount": 130000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL006",
+    "customer_id": "CUST005",
+    "policy_type": "Term Life",
+    "start_date": "2017-12-20",
+    "end_date": "2027-12-20",
+    "premium_amount": 550.00,
+    "coverage_amount": 110000.00,
+    "status": "Cancelled"
+  },
+  {
+    "policy_id": "POL007",
+    "customer_id": "CUST006",
+    "policy_type": "Universal Life",
+    "start_date": "2019-09-10",
+    "end_date": null,
+    "premium_amount": 820.00,
+    "coverage_amount": 210000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL008",
+    "customer_id": "CUST007",
+    "policy_type": "Term Life",
+    "start_date": "2021-01-05",
+    "end_date": "2031-01-05",
+    "premium_amount": 480.00,
+    "coverage_amount": 90000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL009",
+    "customer_id": "CUST008",
+    "policy_type": "Whole Life",
+    "start_date": "2020-04-23",
+    "end_date": null,
+    "premium_amount": 650.00,
+    "coverage_amount": 140000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL010",
+    "customer_id": "CUST009",
+    "policy_type": "Term Life",
+    "start_date": "2016-06-15",
+    "end_date": "2026-06-15",
+    "premium_amount": 520.00,
+    "coverage_amount": 95000.00,
+    "status": "Expired"
+  },
+  {
+    "policy_id": "POL011",
+    "customer_id": "CUST010",
+    "policy_type": "Universal Life",
+    "start_date": "2019-11-20",
+    "end_date": null,
+    "premium_amount": 770.00,
+    "coverage_amount": 180000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL012",
+    "customer_id": "CUST011",
+    "policy_type": "Term Life",
+    "start_date": "2018-08-08",
+    "end_date": "2028-08-08",
+    "premium_amount": 500.00,
+    "coverage_amount": 100000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL013",
+    "customer_id": "CUST012",
+    "policy_type": "Whole Life",
+    "start_date": "2021-02-14",
+    "end_date": null,
+    "premium_amount": 730.00,
+    "coverage_amount": 135000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL014",
+    "customer_id": "CUST013",
+    "policy_type": "Term Life",
+    "start_date": "2017-10-01",
+    "end_date": "2027-10-01",
+    "premium_amount": 570.00,
+    "coverage_amount": 115000.00,
+    "status": "Cancelled"
+  },
+  {
+    "policy_id": "POL015",
+    "customer_id": "CUST014",
+    "policy_type": "Universal Life",
+    "start_date": "2020-05-30",
+    "end_date": null,
+    "premium_amount": 800.00,
+    "coverage_amount": 190000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL016",
+    "customer_id": "CUST015",
+    "policy_type": "Term Life",
+    "start_date": "2019-12-05",
+    "end_date": "2029-12-05",
+    "premium_amount": 540.00,
+    "coverage_amount": 107000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL017",
+    "customer_id": "CUST016",
+    "policy_type": "Whole Life",
+    "start_date": "2021-07-19",
+    "end_date": null,
+    "premium_amount": 720.00,
+    "coverage_amount": 140000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL018",
+    "customer_id": "CUST017",
+    "policy_type": "Term Life",
+    "start_date": "2016-09-15",
+    "end_date": "2026-09-15",
+    "premium_amount": 510.00,
+    "coverage_amount": 90000.00,
+    "status": "Expired"
+  },
+  {
+    "policy_id": "POL019",
+    "customer_id": "CUST018",
+    "policy_type": "Universal Life",
+    "start_date": "2018-11-10",
+    "end_date": null,
+    "premium_amount": 770.00,
+    "coverage_amount": 175000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL020",
+    "customer_id": "CUST019",
+    "policy_type": "Term Life",
+    "start_date": "2020-02-18",
+    "end_date": "2030-02-18",
+    "premium_amount": 560.00,
+    "coverage_amount": 120000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL021",
+    "customer_id": "CUST020",
+    "policy_type": "Whole Life",
+    "start_date": "2022-08-08",
+    "end_date": null,
+    "premium_amount": 730.00,
+    "coverage_amount": 138000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL022",
+    "customer_id": "CUST021",
+    "policy_type": "Term Life",
+    "start_date": "2017-01-10",
+    "end_date": "2027-01-10",
+    "premium_amount": 520.00,
+    "coverage_amount": 110000.00,
+    "status": "Cancelled"
+  },
+  {
+    "policy_id": "POL023",
+    "customer_id": "CUST022",
+    "policy_type": "Universal Life",
+    "start_date": "2019-03-22",
+    "end_date": null,
+    "premium_amount": 790.00,
+    "coverage_amount": 195000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL024",
+    "customer_id": "CUST023",
+    "policy_type": "Whole Life",
+    "start_date": "2021-05-13",
+    "end_date": null,
+    "premium_amount": 710.00,
+    "coverage_amount": 142000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL025",
+    "customer_id": "CUST024",
+    "policy_type": "Term Life",
+    "start_date": "2016-04-01",
+    "end_date": "2026-04-01",
+    "premium_amount": 530.00,
+    "coverage_amount": 102000.00,
+    "status": "Expired"
+  },
+  {
+    "policy_id": "POL026",
+    "customer_id": "CUST025",
+    "policy_type": "Whole Life",
+    "start_date": "2018-12-20",
+    "end_date": null,
+    "premium_amount": 740.00,
+    "coverage_amount": 145000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL027",
+    "customer_id": "CUST026",
+    "policy_type": "Universal Life",
+    "start_date": "2020-09-09",
+    "end_date": null,
+    "premium_amount": 810.00,
+    "coverage_amount": 200000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL028",
+    "customer_id": "CUST027",
+    "policy_type": "Term Life",
+    "start_date": "2017-11-30",
+    "end_date": "2027-11-30",
+    "premium_amount": 540.00,
+    "coverage_amount": 115000.00,
+    "status": "Cancelled"
+  },
+  {
+    "policy_id": "POL029",
+    "customer_id": "CUST028",
+    "policy_type": "Whole Life",
+    "start_date": "2021-01-18",
+    "end_date": null,
+    "premium_amount": 720.00,
+    "coverage_amount": 135000.00,
+    "status": "Active"
+  },
+  {
+    "policy_id": "POL030",
+    "customer_id": "CUST029",
+    "policy_type": "Term Life",
+    "start_date": "2016-03-27",
+    "end_date": "2026-03-27",
+    "premium_amount": 510.00,
+    "coverage_amount": 95000.00,
+    "status": "Expired"
+  },
+  {
+    "policy_id": "POL031",
+    "customer_id": "CUST030",
+    "policy_type": "Universal Life",
+    "start_date": "2019-08-12",
+    "end_date": null,
+    "premium_amount": 790.00,
+    "coverage_amount": 190000.00,
+    "status": "Active"
+  }
+]

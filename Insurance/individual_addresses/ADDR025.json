@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR025",
+    "street": "654 Pine St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip_code": "19103",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

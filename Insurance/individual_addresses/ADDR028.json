@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR028",
+    "street": "753 Walnut Ave",
+    "city": "Tampa",
+    "state": "FL",
+    "zip_code": "33602",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

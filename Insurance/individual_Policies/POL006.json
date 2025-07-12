@@ -1,0 +1,13 @@
+{
+  "PolicyData": {
+    "policy_id": "POL006",
+    "customer_id": "CUST005",
+    "policy_type": "Term Life",
+    "start_date": "2017-12-20",
+    "end_date": "2027-12-20",
+    "premium_amount": 550.0,
+    "coverage_amount": 110000.0,
+    "status": "Cancelled"
+  },
+  "Event": "Policy"
+}

@@ -1,0 +1,32 @@
+version: 2
+
+models:
+  - name: address_data
+    description: Dimension table for address details.
+    columns:
+      - name: address_id
+        tests:
+          - not_null
+          - unique
+      - name: street
+      - name: city
+      - name: state
+      - name: zipcode
+      - name: country
+
+  - name: customer_data
+    description: Dimension table for customer details.
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+          - unique
+      - name: address_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('address_data')
+              field: address_id
+      - name: first_name
+      - name: last_name
+      - name: date_of_birth

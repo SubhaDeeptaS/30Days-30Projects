@@ -1,0 +1,11 @@
+{
+  "ClaimData": {
+    "claim_id": "CLM005",
+    "policy_id": "POL010",
+    "claim_date": "2021-05-30",
+    "claim_amount": 20000.0,
+    "claim_status": "Paid",
+    "description": "Accidental death claim"
+  },
+  "Event": "Claim"
+}

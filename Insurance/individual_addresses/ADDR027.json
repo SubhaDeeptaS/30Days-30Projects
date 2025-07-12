@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR027",
+    "street": "159 Spruce St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip_code": "92101",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR018",
+    "street": "753 Alder St",
+    "city": "Boston",
+    "state": "MA",
+    "zip_code": "02108",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR029",
+    "street": "852 Birch St",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip_code": "55401",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

@@ -1,0 +1,11 @@
+{
+  "ClaimData": {
+    "claim_id": "CLM001",
+    "policy_id": "POL001",
+    "claim_date": "2023-04-10",
+    "claim_amount": 25000.0,
+    "claim_status": "Approved",
+    "description": "Hospitalization due to accident"
+  },
+  "Event": "Claim"
+}

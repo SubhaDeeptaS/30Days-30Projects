@@ -1,0 +1,11 @@
+{
+  "ClaimData": {
+    "claim_id": "CLM006",
+    "policy_id": "POL017",
+    "claim_date": "2022-11-11",
+    "claim_amount": 15000.0,
+    "claim_status": "Rejected",
+    "description": "Policy exclusion claim"
+  },
+  "Event": "Claim"
+}

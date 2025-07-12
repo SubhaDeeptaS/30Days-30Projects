@@ -1,0 +1,13 @@
+{
+  "PolicyData": {
+    "policy_id": "POL010",
+    "customer_id": "CUST009",
+    "policy_type": "Term Life",
+    "start_date": "2016-06-15",
+    "end_date": "2026-06-15",
+    "premium_amount": 520.0,
+    "coverage_amount": 95000.0,
+    "status": "Expired"
+  },
+  "Event": "Policy"
+}

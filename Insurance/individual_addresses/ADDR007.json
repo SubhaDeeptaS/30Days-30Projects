@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR007",
+    "street": "159 Walnut St",
+    "city": "Bay City",
+    "state": "FL",
+    "zip_code": "33101",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

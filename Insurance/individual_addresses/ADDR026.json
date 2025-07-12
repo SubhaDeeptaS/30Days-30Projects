@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR026",
+    "street": "987 Cedar Dr",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip_code": "55102",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "address_id": "ADDR001",
+    "street": "123 Elm St",
+    "city": "Springfield",
+    "state": "IL",
+    "zip_code": "62704",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR002",
+    "street": "456 Oak Ave",
+    "city": "Rivertown",
+    "state": "NY",
+    "zip_code": "12121",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR003",
+    "street": "789 Pine Rd",
+    "city": "Laketown",
+    "state": "CA",
+    "zip_code": "90210",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR004",
+    "street": "321 Maple Blvd",
+    "city": "Greenville",
+    "state": "TX",
+    "zip_code": "75401",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR005",
+    "street": "654 Cedar St",
+    "city": "Fairview",
+    "state": "WA",
+    "zip_code": "98290",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR006",
+    "street": "987 Spruce Ln",
+    "city": "Hilltown",
+    "state": "OR",
+    "zip_code": "97035",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR007",
+    "street": "159 Walnut St",
+    "city": "Bay City",
+    "state": "FL",
+    "zip_code": "33101",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR008",
+    "street": "753 Birch Dr",
+    "city": "Seaside",
+    "state": "ME",
+    "zip_code": "04101",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR009",
+    "street": "852 Aspen Ct",
+    "city": "Lakewood",
+    "state": "CO",
+    "zip_code": "80226",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR010",
+    "street": "246 Willow Ave",
+    "city": "Riverside",
+    "state": "NJ",
+    "zip_code": "08075",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR011",
+    "street": "369 Chestnut Blvd",
+    "city": "Desert City",
+    "state": "AZ",
+    "zip_code": "85001",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR012",
+    "street": "147 Poplar St",
+    "city": "Woodside",
+    "state": "GA",
+    "zip_code": "30301",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR013",
+    "street": "258 Hickory Ln",
+    "city": "Springfield",
+    "state": "MO",
+    "zip_code": "65806",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR014",
+    "street": "369 Redwood Rd",
+    "city": "Portland",
+    "state": "OR",
+    "zip_code": "97205",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR015",
+    "street": "654 Magnolia St",
+    "city": "Austin",
+    "state": "TX",
+    "zip_code": "73301",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR016",
+    "street": "987 Dogwood Ct",
+    "city": "Orlando",
+    "state": "FL",
+    "zip_code": "32801",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR017",
+    "street": "159 Sycamore Ave",
+    "city": "Columbus",
+    "state": "OH",
+    "zip_code": "43215",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR018",
+    "street": "753 Alder St",
+    "city": "Boston",
+    "state": "MA",
+    "zip_code": "02108",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR019",
+    "street": "852 Beech Dr",
+    "city": "Denver",
+    "state": "CO",
+    "zip_code": "80203",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR020",
+    "street": "246 Fir Ln",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip_code": "30303",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR021",
+    "street": "369 Chestnut Ct",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip_code": "21201",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR022",
+    "street": "147 Elm Rd",
+    "city": "Detroit",
+    "state": "MI",
+    "zip_code": "48201",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR023",
+    "street": "258 Maple Ln",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip_code": "28202",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR024",
+    "street": "369 Oak Ave",
+    "city": "Memphis",
+    "state": "TN",
+    "zip_code": "38103",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR025",
+    "street": "654 Pine St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip_code": "19103",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR026",
+    "street": "987 Cedar Dr",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip_code": "55102",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR027",
+    "street": "159 Spruce St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip_code": "92101",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR028",
+    "street": "753 Walnut Ave",
+    "city": "Tampa",
+    "state": "FL",
+    "zip_code": "33602",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR029",
+    "street": "852 Birch St",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip_code": "55401",
+    "country": "USA"
+  },
+  {
+    "address_id": "ADDR030",
+    "street": "246 Aspen Rd",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip_code": "84101",
+    "country": "USA"
+  }
+]

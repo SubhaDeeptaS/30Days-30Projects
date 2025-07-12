@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR004",
+    "street": "321 Maple Blvd",
+    "city": "Greenville",
+    "state": "TX",
+    "zip_code": "75401",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

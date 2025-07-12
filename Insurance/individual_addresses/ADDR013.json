@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR013",
+    "street": "258 Hickory Ln",
+    "city": "Springfield",
+    "state": "MO",
+    "zip_code": "65806",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

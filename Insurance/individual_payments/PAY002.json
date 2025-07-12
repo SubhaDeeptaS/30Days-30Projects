@@ -1,0 +1,11 @@
+{
+  "PaymentData": {
+    "payment_id": "PAY002",
+    "policy_id": "POL002",
+    "payment_date": "2023-06-15",
+    "payment_amount": 750.0,
+    "payment_method": "Bank Transfer",
+    "payment_status": "Completed"
+  },
+  "Event": "Payment"
+}

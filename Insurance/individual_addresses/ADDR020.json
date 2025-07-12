@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR020",
+    "street": "246 Fir Ln",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip_code": "30303",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

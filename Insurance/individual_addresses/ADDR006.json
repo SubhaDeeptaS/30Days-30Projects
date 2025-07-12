@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR006",
+    "street": "987 Spruce Ln",
+    "city": "Hilltown",
+    "state": "OR",
+    "zip_code": "97035",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

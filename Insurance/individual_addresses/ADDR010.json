@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR010",
+    "street": "246 Willow Ave",
+    "city": "Riverside",
+    "state": "NJ",
+    "zip_code": "08075",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

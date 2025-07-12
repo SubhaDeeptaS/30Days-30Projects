@@ -1,0 +1,11 @@
+{
+  "PaymentData": {
+    "payment_id": "PAY004",
+    "policy_id": "POL004",
+    "payment_date": "2023-05-01",
+    "payment_amount": 800.0,
+    "payment_method": "Credit Card",
+    "payment_status": "Completed"
+  },
+  "Event": "Payment"
+}

@@ -1,0 +1,11 @@
+{
+  "ClaimData": {
+    "claim_id": "CLM004",
+    "policy_id": "POL008",
+    "claim_date": "2023-03-22",
+    "claim_amount": 10000.0,
+    "claim_status": "Approved",
+    "description": "Outpatient treatment"
+  },
+  "Event": "Claim"
+}

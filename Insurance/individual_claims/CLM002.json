@@ -1,0 +1,11 @@
+{
+  "ClaimData": {
+    "claim_id": "CLM002",
+    "policy_id": "POL003",
+    "claim_date": "2022-12-05",
+    "claim_amount": 15000.0,
+    "claim_status": "Rejected",
+    "description": "Claim for non-covered illness"
+  },
+  "Event": "Claim"
+}

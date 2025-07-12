@@ -1,0 +1,31 @@
+version: 2
+
+models:
+  - name: policy_summary
+    description: Combined mart view of policies, customers, claims, and payments.
+    columns:
+      - name: policy_id
+        tests:
+          - not_null
+      - name: customer_id
+        tests:
+          - not_null
+      - name: first_name
+      - name: last_name
+      - name: gender
+      - name: date_of_birth
+      - name: city
+      - name: state
+      - name: policy_type
+      - name: start_date
+      - name: end_date
+      - name: premium_amount
+      - name: coverage_amount
+      - name: policy_status
+      - name: payment_date
+      - name: payment_amount
+      - name: payment_method
+      - name: payment_status
+      - name: claim_date
+      - name: claim_amount
+      - name: claim_status

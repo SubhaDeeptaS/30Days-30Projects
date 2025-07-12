@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR030",
+    "street": "246 Aspen Rd",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip_code": "84101",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

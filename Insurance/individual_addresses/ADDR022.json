@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR022",
+    "street": "147 Elm Rd",
+    "city": "Detroit",
+    "state": "MI",
+    "zip_code": "48201",
+    "country": "USA"
+  },
+  "Event": "Address"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "claim_id": "CLM001",
+    "policy_id": "POL001",
+    "claim_date": "2023-04-10",
+    "claim_amount": 25000.00,
+    "claim_status": "Approved",
+    "description": "Hospitalization due to accident"
+  },
+  {
+    "claim_id": "CLM002",
+    "policy_id": "POL003",
+    "claim_date": "2022-12-05",
+    "claim_amount": 15000.00,
+    "claim_status": "Rejected",
+    "description": "Claim for non-covered illness"
+  },
+  {
+    "claim_id": "CLM003",
+    "policy_id": "POL004",
+    "claim_date": "2023-02-17",
+    "claim_amount": 40000.00,
+    "claim_status": "Pending",
+    "description": "Serious illness claim"
+  },
+  {
+    "claim_id": "CLM004",
+    "policy_id": "POL008",
+    "claim_date": "2023-03-22",
+    "claim_amount": 10000.00,
+    "claim_status": "Approved",
+    "description": "Outpatient treatment"
+  },
+  {
+    "claim_id": "CLM005",
+    "policy_id": "POL010",
+    "claim_date": "2021-05-30",
+    "claim_amount": 20000.00,
+    "claim_status": "Paid",
+    "description": "Accidental death claim"
+  },
+  {
+    "claim_id": "CLM006",
+    "policy_id": "POL017",
+    "claim_date": "2022-11-11",
+    "claim_amount": 15000.00,
+    "claim_status": "Rejected",
+    "description": "Policy exclusion claim"
+  }
+]

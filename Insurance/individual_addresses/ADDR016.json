@@ -1,0 +1,11 @@
+{
+  "AddressData": {
+    "address_id": "ADDR016",
+    "street": "987 Dogwood Ct",
+    "city": "Orlando",
+    "state": "FL",
+    "zip_code": "32801",
+    "country": "USA"
+  },
+  "Event": "Address"
+}
