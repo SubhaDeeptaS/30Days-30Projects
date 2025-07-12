@@ -1,11 +1,12 @@
 # 🧪 E-Commerce Data Engineering Pipeline with Snowflake, DBT, AWS & Power BI
 
-This project builds a modern end-to-end data pipeline for an e-commerce business using:
-- **AWS S3** for raw data storage
-- **Snowpipe** to stream data into Snowflake
-- **Snowflake** for cloud data warehousing
-- **DBT** to model, transform, and test data
-- **Power BI** for final reporting and dashboards
+## 📌 Tech Stack
+
+- **AWS S3**: Raw CSV data storage  
+- **Snowflake**: Cloud data warehouse  
+- **Snowflake External Stage**: Staging files from S3 to Snowflake
+- **DBT**: Data modeling and transformation  
+- **Power BI**: Data visualization and analytics  
 
 ---
 
