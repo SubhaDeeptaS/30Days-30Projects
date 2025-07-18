@@ -1,0 +1,27 @@
+version: 2
+
+models:
+  - name: sales_by_category
+    description: Total Sales per category
+    columns: 
+      - name: total_sales
+        description: Total sales in each category
+      - name: category
+        description: category of product
+        tests:
+          - unique
+          - not_null
+  - name: sales_by_month
+    description: Total Sales in each month per year
+    columns:
+      - name: total_sales
+      - name: month_of_purchase
+        description: Month of the year
+        tests:
+          - not_null
+      - name: year_of_purchase
+  - name: sales_by_payment
+    description: Total Sales done corresponding to each type of payment
+    columns:
+      - name: total_sales
+      - name: payment_method
